@@ -24,4 +24,4 @@ conda config --add channels http://conda.binstar.org/omnia
 conda install openmm
 ```
 
-A list of packages and versions available for your operating system is available on binstar: https://binstar.org/omnia/
+A list of packages and versions available for your operating system is available on binstar: https://binstar.org/omnia/  For example, the openmm packages available are shown here: https://binstar.org/omnia/openmm/files
