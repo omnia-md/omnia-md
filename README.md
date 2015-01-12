@@ -23,3 +23,5 @@ Note: currently only python2.7 on OSX / Linux are supported, but python3.4 will 
 conda config --add channels http://conda.binstar.org/omnia
 conda install openmm
 ```
+
+A list of packages and versions available for your operating system is available on binstar: https://binstar.org/omnia/
